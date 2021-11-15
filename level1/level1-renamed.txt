@@ -1,0 +1,3 @@
+I want this change.
+I dont want this change
+I dont want this change to commit 
