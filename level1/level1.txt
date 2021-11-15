@@ -4,4 +4,5 @@ I dont want this change to commit
 A new change to be included in dev 
 +++ 
 A tag has been made 
-Another change 
+Another change
+A brand new line for our brand new branch 
