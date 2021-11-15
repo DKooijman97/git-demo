@@ -1,2 +1,4 @@
 --- This file is doomed!!!!!!!
 ==== Another merge confict
+++
+////Create another merge conflict 
